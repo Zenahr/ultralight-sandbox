@@ -1,0 +1,5 @@
+to build do this:
+
+cd build
+cmake .. -DCMAKE_GENERATOR_PLATFORM=x64
+cmake --build . --config Release --clean-first
