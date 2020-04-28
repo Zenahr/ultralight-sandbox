@@ -19,7 +19,7 @@ MyApp::MyApp() {
   ///
   /// Set the title of our window.
   ///
-  window_->SetTitle("MyApp");
+  window_->SetTitle("CoolApp");
 
   ///
   /// Tell our app to use 'window' as our main window.
